@@ -1,1 +1,5 @@
 Trabajo en equipo con git
+
+helloWorld.sh tiene permisos: -rwxr--r--
+La principal diferencia entre helloWorld.sh y helloWorld.rb es que helloWorld.rb sólo tiene una línea de comando que además es intuitiva.
+La primera línea de helloWorld.sh significa que se ejecuta desde la librería sh
